@@ -10,5 +10,5 @@ Deivid Alberto Guerra Carpio
 
 Estalin Alejandro Godoy Campos
 
-Descripción: Se me hace muy interesante el poder trabajar con compañeros gracias a GIT, se me hace interesante y realmente quiero enteder más de lo básico hacerca del programa.
+Descripción: Se hace muy interesante el poder trabajar con compañeros gracias a GIT, se hace interesante y de gusto enteder más de lo básico hacerca del programa.
 
