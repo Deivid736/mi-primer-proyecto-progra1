@@ -7,4 +7,4 @@ Integrantes:
 
 Deivid Laberto Guerra Carpio
 
-La mamá
+
