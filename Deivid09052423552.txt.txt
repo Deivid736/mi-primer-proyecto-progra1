@@ -1,0 +1,3 @@
+pregunta 1: aprendí que son muy útiles para llevar el control de proyectos
+pregunta 2: Encontre un conflicto cuando fusione las ramas, solo tuve que eliminar unos símbolos que estaban dentro del archivo readdme
+pregunta 3: ayudara a llevar un control ordenado y limpio para los próximos proyectos
