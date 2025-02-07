@@ -7,4 +7,4 @@ Integrantes:
 
 Deivid Laberto Guerra Carpio
 
-la mama de la mama
+la mama 
